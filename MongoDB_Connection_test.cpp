@@ -1,3 +1,6 @@
+
+// A simple program that connects to the database
+
 #if defined(_WIN32)
 #include <winsock2.h>
 #include <windows.h>
